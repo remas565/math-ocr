@@ -1,0 +1,6 @@
+Filename: cdn4.premiumrصead.com.jpeg
+Upload Time: 0 ms
+Processing Time: 985 ms
+Total Time: 985 ms
+Output LaTeX: d S\cong0
+Saved Image: logs/2025-12-07_13-59-39_image.png

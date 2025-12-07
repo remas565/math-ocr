@@ -1,0 +1,6 @@
+Filename: png-transparent-linear-equation-ellipsoid-number-surface-mathematics-angle-text-number.png
+Upload Time: 0 ms
+Processing Time: 485 ms
+Total Time: 485 ms
+Output LaTeX: \frac{\left(X^{2}+y^{2}\right)}{\mathrm{:~}}y^{2}\cdot\cdot\cdot\cdot
+Saved Image: logs/2025-12-07_14-00-09_image.png

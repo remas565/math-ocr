@@ -1,0 +1,6 @@
+Filename: س-3.jpg.webp
+Upload Time: 0 ms
+Processing Time: 682 ms
+Total Time: 682 ms
+Output LaTeX: \widetilde{\cal J}^{\prime\prime}\qquad\overline{{{\longrightarrow}}}^{\prime}\overbrace{\longrightarrow}^{\epsilon\overline{{{\cal J}}}}^{\epsilon\overline{{{\cal J}}}}
+Saved Image: logs/2025-12-05_22-28-59_image.png

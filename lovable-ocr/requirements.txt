@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+albumentations
+transformers
+torch
+Pillow
+numpy
+pix2tex
+python-multipart
