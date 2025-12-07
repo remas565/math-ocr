@@ -1,0 +1,9 @@
+{
+  "name": "math-ocr",
+  "type": "python3",
+  "entrypoint": "server.py",
+  "description": "OCR backend powered by FastAPI and pix2tex",
+  "commands": {
+    "start": "python server.py"
+  }
+}
